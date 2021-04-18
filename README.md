@@ -41,3 +41,35 @@ Attach Javascript file
 <script src="js/digitalclock.js"></script>
 ```
 
+## The Styling
+Will add a nice font it will center the hero div and make the background fit nicely
+``` 
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+.clock-body {
+    margin: 200px auto;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-body{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #2BC511;
+    background-color: black;
+    border-radius:12px;
+}
+.clock{
+    font-size: 4em;
+    font-weight: 700;
+    text-align: center;
+    color:#2BC511;
+    font-family: 'Orbitron', sans-serif;
+}
+.clock span {
+    padding: 20px;
+}
+```
