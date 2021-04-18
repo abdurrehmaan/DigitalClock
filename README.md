@@ -12,7 +12,7 @@
 
 
 ## The Javascript
-Now here comes the main part. The entire code for the working of the clock is written within the ```tick()``` function.
+The entire code for the working of the clock is written within the ```tick()``` function.
 Inside this function, an object of the ```Date()``` is created which allows you to call year, date, hour, minute, second. 
 ```
 const now = new Date();
