@@ -1,5 +1,6 @@
 # DigitalClock
-![ditgital clock](https://user-images.githubusercontent.com/29798155/115161278-42caa180-a0b6-11eb-9569-9746d3c42fcd.gif)
+![1212](https://user-images.githubusercontent.com/29798155/115163471-c12d4080-a0c2-11eb-87cb-915e6fd4d581.gif)
+
 
 
 # Build your own digital clock with JavaScript
