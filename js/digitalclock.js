@@ -8,9 +8,9 @@ const tick = () => {
     const s = now.getSeconds();
 
     const html = `
-    <span>${h}</span>:
-    <span>${m}</span>:
-    <span>${s}</span>`;
+    <span>${h < 10 ? "0"+h:h}</span>:
+    <span>${m < 10 ? "0"+m:m}</span>:
+    <span>${s < 10 ? "0"+s:s}</span>`;
     
     clock.innerHTML = html;
 }
