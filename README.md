@@ -10,6 +10,10 @@
 - Display current time
 - Increment the time on it's own
 
+## Technology we use
+
+- Vanilla javascript
+
 
 ## The Javascript
 The entire code for the working of the clock is written within the ```tick()``` function.
